@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Challenge4_haneru",
+"dataUrl": "haneru.data.unityweb",
+"asmCodeUrl": "haneru.asm.code.unityweb",
+"asmMemoryUrl": "haneru.asm.memory.unityweb",
+"asmFrameworkUrl": "haneru.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
